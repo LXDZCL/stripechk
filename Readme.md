@@ -88,13 +88,7 @@ This tool is designed to be fast, lightweight, multi-threaded, and easy to use a
 
 <h3>Termux / Linux / Ubuntu</h3>
 
-<pre><code>termux-setup-storage
-apt update &amp;&amp; apt upgrade -y
-apt install git python python2 nano -y
-git clone https://github.com/KianSantang777/stripechk.git
-cd stripechk
-chmod +x install.sh
-./install.sh
+<pre><code>curl -fsSL https://raw.githubusercontent.com/KianSantang777/stripechk/main/install.sh | bash
 </code></pre>
 
 <h3>Windows</h3>
